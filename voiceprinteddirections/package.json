@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "escpos": "^2.4.9",
+    "remove-accents": "^0.4.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "striptags": "^3.1.1"
+  }
+}
